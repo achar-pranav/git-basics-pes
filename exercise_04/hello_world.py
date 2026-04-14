@@ -6,6 +6,7 @@ procedural, object-oriented, and generic programming.
 Its speed and versatility make it a popular choice for 
 system/software development and competitive programming.""")
 
+### This file is about printing out some information about Python and Java.
 print("""Python is a high-level, interpreted programming language 
 known for its readability and versatility. It supports multiple 
 programming paradigms, including structured, object-oriented, 
