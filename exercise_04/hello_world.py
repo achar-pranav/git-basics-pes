@@ -1,3 +1,4 @@
+### This is a simple Python program that prints out information about C++ and Python programming languages.
 print("""C++ is a high-performance, compiled programming language 
 known for its efficiency and control over system resources. 
 It supports multiple programming paradigms, including 
@@ -10,4 +11,4 @@ known for its readability and versatility. It supports multiple
 programming paradigms, including structured, object-oriented, 
 and functional programming. Its large standard library and 
 active community make it one of the most popular languages 
-in the world today.""")
+in the world today. Moreover, Python's simplicity and ease of use make it an excellent choice for beginners and experienced developers alike.""")
