@@ -6,7 +6,7 @@ Welcome to this hands-on repo. Here you will learn more about Git, how to get st
 There are two primary ways to set up a Git repository depending on your starting point.
 
 ### 1. Creating a Repository from Scratch in Github and Cloning it
-1. Go to Github and create you repo
+1. Go to Github and create your repo
 
 ```bash
 # Clone the repository to your local machine
